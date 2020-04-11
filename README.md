@@ -8,4 +8,5 @@ Notebook used : Google Colab
 
 To Predict : Recommend Movies based on User's recently watched Movies' Ratings.             
 
->>Install the dependencies from your terminal with "pip install -r requirements.txt"
+If you're working on a Local Machine,
+Install the dependencies from your terminal with >> "pip install -r requirements.txt"
