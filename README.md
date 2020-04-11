@@ -1,4 +1,4 @@
-# Simple-Movie-Recommender-System
+# Movie-Recommender-System
 Implementing a Simple Movie Recommender System using Item-Based Collaborative Filtering                
 Notebook used : Google Colab       
 
